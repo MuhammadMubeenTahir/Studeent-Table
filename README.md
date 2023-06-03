@@ -1,1 +1,1 @@
-# Studeent-Table
+# Student-Table
